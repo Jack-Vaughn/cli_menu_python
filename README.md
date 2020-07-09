@@ -4,7 +4,7 @@ An single file, easy to use Python CLI menu.
 
 Example below
 
-`
+```
 app_name = 'Python Matrix'
     menu = Menu(
         prompt=f'********* Welcome to the  {app_name} Application*********\n'
@@ -31,4 +31,4 @@ app_name = 'Python Matrix'
         menu.show_prompt()
         menu.show()
         menu.choose_option()
- `
+ ```
