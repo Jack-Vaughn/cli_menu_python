@@ -4,7 +4,8 @@ An single file, easy to use Python CLI menu.
 
 Example below
 
-`app_name = 'Python Matrix'
+`
+app_name = 'Python Matrix'
     menu = Menu(
         prompt=f'********* Welcome to the  {app_name} Application*********\n'
                f'   Do you want to play the Matrix Game?\n'
@@ -29,4 +30,5 @@ Example below
     while not menu.should_exit:
         menu.show_prompt()
         menu.show()
-        menu.choose_option()`
+        menu.choose_option()
+ `
