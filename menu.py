@@ -3,12 +3,6 @@
 
 """
 menu.py
-Jack Vaughn
-SDEV 300 - 6380
-Building Secure Python Applications
-Professor Khan
-27 May 2020
-
 MENU CLASS TAKE TAKES MENU-OPTIONS FOR USER INPUT
 """
 
