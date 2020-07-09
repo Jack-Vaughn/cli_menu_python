@@ -1,4 +1,4 @@
-# cli_menu_python
+# CLI Menu for Python
 
 An single file, easy to use Python CLI menu.
 
