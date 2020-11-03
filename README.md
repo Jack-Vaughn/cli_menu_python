@@ -5,7 +5,7 @@ An single file, easy to use Python CLI menu.
 Example below
 
 ```
-from menu import Menu
+from menu import Menu, MenuOption
 
 app_name = 'Python Matrix'
 menu = Menu(
